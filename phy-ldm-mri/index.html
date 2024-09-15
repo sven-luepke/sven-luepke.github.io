@@ -1,92 +1,226 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Your Research Paper Title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        /* Basic styling */
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-        .container { max-width: 800px; margin: auto; padding: 20px; }
-        h1, h2, h3 { color: #333; }
-        h1 { font-size: 2.5em; margin-bottom: 10px; }
-        h2 { font-size: 2em; margin-top: 40px; margin-bottom: 10px; }
-        h3 { font-size: 1.5em; margin-top: 30px; margin-bottom: 10px; }
-        p { line-height: 1.6; color: #555; }
-        .authors { font-size: 1.2em; margin-bottom: 20px; }
-        .institution { font-style: italic; color: #777; }
-        .abstract { background-color: #f9f9f9; padding: 20px; border-left: 5px solid #ccc; }
-        .citation { background-color: #f4f4f4; padding: 15px; font-family: monospace; overflow-x: auto; }
-        .links a { color: #0366d6; text-decoration: none; margin-right: 15px; }
-        .links a:hover { text-decoration: underline; }
-        footer { text-align: center; margin-top: 50px; color: #aaa; }
-    </style>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis">
+  <meta name="keywords" content="Medical">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis</title>
+
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
 </head>
 <body>
 
-<div class="container">
-    <!-- Title -->
-    <h1>Your Research Paper Title</h1>
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://keunhong.com">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
 
-    <!-- Authors and Institutions -->
-    <div class="authors">
-        <p>
-            <strong>Author One</strong><sup>1</sup>, 
-            <strong>Author Two</strong><sup>2</sup>, 
-            <strong>Author Three</strong><sup>1,2</sup>
-        </p>
-        <p class="institution">
-            <sup>1</sup>Institution One, 
-            <sup>2</sup>Institution Two
-        </p>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://hypernerf.github.io">
+            HyperNeRF
+          </a>
+          <a class="navbar-item" href="https://nerfies.github.io">
+            Nerfies
+          </a>
+          <a class="navbar-item" href="https://latentfusion.github.io">
+            LatentFusion
+          </a>
+          <a class="navbar-item" href="https://photoshape.github.io">
+            PhotoShape
+          </a>
+        </div>
+      </div>
     </div>
 
-    <!-- Abstract -->
-    <div class="abstract">
-        <h2>Abstract</h2>
-        <p>
-            [Insert your abstract here. Provide a concise summary of your research, highlighting the main objectives, methods, results, and conclusions.]
-        </p>
-    </div>
+  </div>
+</nav>
 
-    <!-- Links to Paper and Resources -->
-    <div class="links">
-        <h2>Resources</h2>
-        <p>
-            <a href="link-to-your-paper.pdf" target="_blank">📄 Paper</a>
-            <a href="link-to-your-code-repository" target="_blank">💻 Code</a>
-            <a href="link-to-demo-or-dataset" target="_blank">🎮 Demo</a>
-        </p>
-    </div>
 
-    <!-- Citation -->
-    <div class="citation">
-        <h2>Citation</h2>
-        <p>If you find our work useful, please cite:</p>
-        <pre>
-@article{yourcitation2023,
-  title={Your Research Paper Title},
-  author={Author One and Author Two and Author Three},
-  journal={Journal Name},
-  year={2023},
-  publisher={Publisher}
-}
-        </pre>
-    </div>
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Nerfies: Deformable Neural Radiance Fields</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://keunhong.com">Keunhong Park</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://utkarshsinha.com">Utkarsh Sinha</a><sup>2</sup>,</span>
+            <span class="author-block">
+              <a href="https://jonbarron.info">Jonathan T. Barron</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="http://sofienbouaziz.com">Sofien Bouaziz</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.danbgoldman.com">Dan B Goldman</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://homes.cs.washington.edu/~seitz/">Steven M. Seitz</a><sup>1,2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="http://www.ricardomartinbrualla.com">Ricardo Martin-Brualla</a><sup>2</sup>
+            </span>
+          </div>
 
-    <!-- Contact Information -->
-    <div class="contact">
-        <h2>Contact</h2>
-        <p>
-            For questions or inquiries, please contact us at 
-            <a href="mailto:youremail@example.com">youremail@example.com</a>.
-        </p>
-    </div>
-</div>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>University of Washington,</span>
+            <span class="author-block"><sup>2</sup>Google Research</span>
+          </div>
 
-<!-- Footer -->
-<footer>
-    &copy; 2023 Your Name or Institution
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/google/nerfies"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://github.com/google/nerfies/releases/tag/0.1"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                  </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Recent advances in generative models for medical imaging
+            have shown promise in representing multiple modalities. However, the
+            variability in modality availability across datasets limits the general
+            applicability of the synthetic data they produce. To address this, we
+            present a novel physics-informed generative model capable of synthesizing
+            a variable number of brain MRI modalities, including those not present
+            in the original dataset. Our approach utilizes latent diffusion models and
+            a two-step generative process: first, unobserved physical tissue property
+            maps are synthesized using a latent diffusion model, and then these maps
+            are combined with a physical signal model to generate the final MRI scan.
+            Our experiments demonstrate the efficacy of this approach in generating
+            unseen MR contrasts and preserving physical plausibility. Furthermore,
+            we validate the distributions of generated tissue properties by comparing
+            them to those measured in real brain tissue.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+
+  </div>
+</section>
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@article{luepke2024phyldmmri,
+  author    = {Lüpke, Sven and Yaganeh, Yousef and Ehsan, Adeli and Navab, Nassir and Farshad, Azadeh},
+  title     = {Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis},
+  journal   = {5th International Workshop on Multiscale Multimodal Medical Imaging},
+  year      = {2024},
+}</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link"
+         href="./static/videos/nerfies_paper.pdf">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/keunhong" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This template is borrowed from <a
+              href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </footer>
 
 </body>
