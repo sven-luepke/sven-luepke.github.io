@@ -1,2 +1,2 @@
 # sven-luepke.github.io
-Website
+Personal Website
