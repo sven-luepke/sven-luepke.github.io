@@ -1,2 +1,1 @@
-# sven-luepke.github.io
-Personal Website
+Personal website coming soon...
