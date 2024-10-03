@@ -1,6 +1,6 @@
 ## About Me
 
-Under construction ...
+Section under construction ...
 
 ## Work Experience
 
