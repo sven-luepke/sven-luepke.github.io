@@ -11,6 +11,6 @@ Under construction ...
 **04/2019 - 09/2019** Tutor for the [Practical Course: Realtime Computer Graphics at Technical University of Munich](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1517639)
 
 ## Education
-**04/2022 - 03/2025** Master's Studies in Informatic at [Technical University of Munich](https://www.tum.de/)<br/>
+**04/2022 - 03/2025** Master's Studies in Informatics at [Technical University of Munich](https://www.tum.de/)<br/>
 **04/2021 - 03/2022** Master's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)<br/>
-**10/2017 - 03/2021** Bachelors's Studies in Informatic at [Technical University of Munich](https://www.tum.de/)
+**10/2017 - 03/2021** Bachelors's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)
