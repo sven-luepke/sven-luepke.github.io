@@ -1,7 +1,3 @@
-## About Me
-
-Section under construction ...
-
 ## Work Experience
 
 **10/2023 - now:** Machine Learning Engineer Working Student at [Delicious Data](https://www.delicious-data.com/)<br/>
