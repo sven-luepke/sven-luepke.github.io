@@ -14,3 +14,13 @@ Section under construction ...
 **04/2022 - 03/2025** Master's Studies in Informatics at [Technical University of Munich](https://www.tum.de/)<br/>
 **04/2021 - 03/2022** Master's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)<br/>
 **10/2017 - 03/2021** Bachelors's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)
+
+
+## Selected Projects
+
+### Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis (2024)
+Paper presented at the [5th International Workshop on Multiscale Multimodal Medical Imaging](https://mmmi2024.github.io/) at [MICCAI 2024](https://conferences.miccai.org/2024/en/)
+
+### Generative Modeling for Inverse Molecular Design (2024)
+
+### BlitzFX (2023)
