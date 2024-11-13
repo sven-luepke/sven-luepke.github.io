@@ -1,7 +1,3 @@
-## About Me
-
-Section under construction ...
-
 ## Work Experience
 
 **10/2023 - now:** Machine Learning Engineer Working Student at [Delicious Data](https://www.delicious-data.com/)<br/>
@@ -14,7 +10,6 @@ Section under construction ...
 **04/2022 - 03/2025** Master's Studies in Informatics at [Technical University of Munich](https://www.tum.de/)<br/>
 **04/2021 - 03/2022** Master's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)<br/>
 **10/2017 - 03/2021** Bachelors's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)
-
 
 ## Selected Projects
 
