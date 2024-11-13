@@ -12,10 +12,12 @@
 **10/2017 - 03/2021** Bachelors's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)
 
 ## Selected Projects
-
-### Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis (2024)
+#### Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis (2024) 
+![](phy-mri-ldm.png)
 Paper presented at the [5th International Workshop on Multiscale Multimodal Medical Imaging](https://mmmi2024.github.io/) at [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
-### Generative Modeling for Inverse Molecular Design (2024)
+#### Generative Modeling for Inverse Molecular Design (2024)
+Interdisciplinary Project
 
-### BlitzFX (2023)
+#### BlitzFX (2023)
+Graphics effect injector for The Witcher 3 released on [Nexus Mods](https://www.nexusmods.com/witcher3/mods/6447)
