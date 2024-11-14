@@ -22,7 +22,9 @@ Under construction...
 - Guided research project at the [Chair for Computer Aided Medical Procedures at Technical University of Munich](https://www.cs.cit.tum.de/camp/start/)
 
 #### Generative Modeling for Inverse Molecular Design (2024) | [Code](https://github.com/sven-luepke/molecular-generative-modeling)
+![](idp.png)
 - Interdisciplinary project at the [Chair for Data-driven Materials Modeling](https://www.epc.ed.tum.de/ddmm/home/)
 
 #### BlitzFX (2023) | [Code](https://github.com/sven-luepke/blitz-fx)
+![](blitz-fx.jpeg)
 - Graphics effect injector for The Witcher 3 released on [Nexus Mods](https://www.nexusmods.com/witcher3/mods/6447)
