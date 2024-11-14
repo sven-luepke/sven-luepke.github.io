@@ -18,10 +18,11 @@ Under construction...
 #### Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis (2024) | [Project Page](https://sven-luepke.github.io/phy-ldm-mri/) | [Code](https://github.com/sven-luepke/phy-ldm-mri/)
 
 ![](phy-ldm-mri.png)
-[Paper](https://arxiv.org/abs/2409.13532) presented at the [5th International Workshop on Multiscale Multimodal Medical Imaging](https://mmmi2024.github.io/) at [MICCAI 2024](https://conferences.miccai.org/2024/en/)
+- [Paper](https://arxiv.org/abs/2409.13532) presented at the [5th International Workshop on Multiscale Multimodal Medical Imaging](https://mmmi2024.github.io/) at [MICCAI 2024](https://conferences.miccai.org/2024/en/)
+- Guided research project at the [Chair for Computer Aided Medical Procedures at Technical University of Munich](https://www.cs.cit.tum.de/camp/start/)
 
-#### Generative Modeling for Inverse Molecular Design (2024)
-Interdisciplinary Project
+#### Generative Modeling for Inverse Molecular Design (2024) | [Code](https://github.com/sven-luepke/molecular-generative-modeling)
+- Interdisciplinary project at the [Chair for Data-driven Materials Modeling](https://www.epc.ed.tum.de/ddmm/home/)
 
-#### BlitzFX (2023)
-Graphics effect injector for The Witcher 3 released on [Nexus Mods](https://www.nexusmods.com/witcher3/mods/6447)
+#### BlitzFX (2023) | [Code](https://github.com/sven-luepke/blitz-fx)
+- Graphics effect injector for The Witcher 3 released on [Nexus Mods](https://www.nexusmods.com/witcher3/mods/6447)
