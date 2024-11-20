@@ -1,5 +1,5 @@
 ## About Me
-Hi, my name is Sven, and I am currently pursuing a Master's degree in computer science at the Technical University of Munich.
+Hi, my name is Sven, and I enjoy bridging research and practical applications to make a real-world impact. Specializing in machine learning, I have experience in various industry and research projects across time series forecasting, medical imaging, computer vision, and graphics.
 
 ## Professional Experience
 
