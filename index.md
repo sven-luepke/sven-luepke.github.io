@@ -1,7 +1,7 @@
 ## About Me
-Under construction...
+Hi, my name is Sven, and I am currently pursuing a Master's degree in computer science at the Technical University of Munich.
 
-## Work Experience
+## Professional Experience
 
 **10/2023 - now:** Machine Learning Engineer Working Student at [Delicious Data](https://www.delicious-data.com/)<br/>
 **04/2023 - 10/2023** Graphics Software Engineer Working Student at [Infineon Technologies](https://www.infineon.com/)<br/>
