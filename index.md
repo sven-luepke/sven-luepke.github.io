@@ -1,5 +1,5 @@
 ## About Me
-Hi, my name is Sven, and I enjoy bridging research and practical applications to make a real-world impact. Specializing in machine learning, I have experience in various industry and research projects across time series forecasting, medical imaging, computer vision, and graphics.
+Hi, my name is Sven, and I enjoy bridging research and practical applications to make a real-world impact. I am particularly interested in machine learning and have experience with its application through numerous research and industry projects, including time series forecasting, medical imaging, computer vision, and graphics.
 
 ## Professional Experience
 
