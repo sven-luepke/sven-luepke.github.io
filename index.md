@@ -3,7 +3,8 @@ Hi, my name is Sven, and I enjoy bridging research and practical applications to
 
 ## Professional Experience
 
-**10/2023 - now:** Machine Learning Engineer Working Student at [Delicious Data](https://www.delicious-data.com/)<br/>
+**03/2025 - now:** Data Scientist at [Delicious Data](https://www.delicious-data.com/)<br/>
+**10/2023 - 03/2025:** Machine Learning Engineer Working Student at [Delicious Data](https://www.delicious-data.com/)<br/>
 **04/2023 - 10/2023** Graphics Software Engineer Working Student at [Infineon Technologies](https://www.infineon.com/)<br/>
 **10/2021 - 09/2022** Research Assistant at the [Chair of Computer Graphics and Visualization at Technical University of Munich](https://www.cs.cit.tum.de/en/cg/cover-page/)<br/>
 **01/2020 - 09/2021** Software Development Working Student at [Rubinstein & Schmiedel](https://www.linkedin.com/company/rubinstein-schmiedel/)<br/>
