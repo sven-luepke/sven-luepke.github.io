@@ -11,7 +11,7 @@ Hi, my name is Sven, and I enjoy bridging research and practical applications to
 **04/2019 - 09/2019** Tutor for the [Practical Course: Real-time Computer Graphics at Technical University of Munich](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1517639)
 
 ## Education
-**04/2022 - 03/2025** Master's Studies in Informatics at [Technical University of Munich](https://www.tum.de/)<br/>
+**04/2022 - 07/2025** Master's Studies in Informatics at [Technical University of Munich](https://www.tum.de/)<br/>
 **04/2021 - 03/2022** Master's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)<br/>
 **10/2017 - 03/2021** Bachelors's Studies in Informatics: Games Engineering at [Technical University of Munich](https://www.tum.de/)
 
