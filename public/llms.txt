@@ -1,6 +1,9 @@
 # Sven Lüpke
 
+## Blog
+- [Training Diffusion Transformers with Muon](http://localhost:1313/blog/training-diffusion-transformers-with-muon/)
+
 ## Projects
-- [Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis](https://sven-luepke.github.io/projects/physics-informed-latent-diffusion-mri/)
-- [Generative Modeling for Inverse Molecular Design](https://sven-luepke.github.io/projects/generative-modeling-inverse-molecular-design/)
-- [BlitzFX](https://sven-luepke.github.io/projects/blitz-fx/)
+- [Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis](http://localhost:1313/projects/physics-informed-latent-diffusion-mri/)
+- [Generative Modeling for Inverse Molecular Design](http://localhost:1313/projects/generative-modeling-inverse-molecular-design/)
+- [BlitzFX](http://localhost:1313/projects/blitz-fx/)
