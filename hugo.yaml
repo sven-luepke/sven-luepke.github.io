@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+baseURL: "https://sven-luepke.github.io/"
 title: Sven Lüpke
 locale: "en-US"
 theme: ["PaperMod"]
@@ -12,7 +12,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: ["blog"]
 
 minify:
   disableXML: true
@@ -38,9 +38,6 @@ languages:
         - name: Projects
           url: projects
           weight: 2
-        - name: Publications
-          url: publications
-          weight: 3
         - name: CV
           url: CV.pdf
           weight: 4
@@ -66,6 +63,7 @@ params:
   defaultTheme: dark
   # disableThemeToggle: true
   ShowShareButtons: true
+  ShareButtons: ["x", "linkedin", "reddit", "facebook", "whatsapp", "ycombinator"]
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -90,8 +88,6 @@ params:
         url: blog
       - name: Projects
         url: projects
-      - name: Publications
-        url: publications
       - name: CV
         url: CV.pdf
 
