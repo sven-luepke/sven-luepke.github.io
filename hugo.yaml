@@ -1,0 +1,116 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+title: Sven Lüpke
+locale: "en-US"
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 3
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Blog
+          url: blog
+          weight: 1
+        - name: Projects
+          url: projects
+          weight: 2
+        - name: Publications
+          url: publications
+          weight: 3
+        - name: CV
+          url: cv
+          weight: 4
+
+outputFormats:
+  llms:
+    mediaType: "text/plain"
+    baseName: "llms"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - llms
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  author: Theme PaperMod
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: dark
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+
+  profileMode:
+    enabled: True
+    title: Sven Lüpke
+    imageUrl: "images/sven_cropped.jpg"
+    imageTitle: my image
+    subtitle: "AI Researcher & Engineer"
+    imageWidth: 512
+    imageHeight: 512
+    buttons:
+      - name: Blog
+        url: blog
+      - name: Projects
+        url: projects
+      - name: Publications
+        url: publications
+      - name: CV
+        url: cv
+
+
+  socialIcons:
+    - name: GitHub
+      title: View my GitHub profile
+      url: "https://github.com/sven-luepke"
+    - name: X
+      title: Follow me on X/Twitter
+      url: "https://x.com/svenluepke"
+    - name: LinkedIn
+      title: Connect with me on LinkedIn
+      url: "https://www.linkedin.com/in/sven-luepke/"
+    - name: Discord
+      title: Join discord community
+      url: "https://discord.gg/ahpmTvhVmp"
+    - name: YouTube
+      title: Subscribe to my YouTube channel
+      url: "https://www.youtube.com/@knightec8698"
