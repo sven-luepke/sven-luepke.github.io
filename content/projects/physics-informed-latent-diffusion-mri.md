@@ -1,6 +1,6 @@
 ---
 title: "Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis"
-date: 2024-11-01
+date: 2024-10-01
 summary: "Paper presented at the 5th International Workshop on Multiscale Multimodal Medical Imaging at MICCAI 2024"
 ShowReadingTime: false
 hideAuthor: true

@@ -14,6 +14,19 @@ enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["blog"]
 
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - $$
+              - $$
+          inline:
+            - - $
+              - $
+
 minify:
   disableXML: true
   # minifyOutput: true

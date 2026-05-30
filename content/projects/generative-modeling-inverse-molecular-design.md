@@ -1,6 +1,6 @@
 ---
 title: "Generative Modeling for Inverse Molecular Design"
-date: 2024-07-01
+date: 2024-08-15
 summary: "Interdisciplinary project at the Chair for Data-driven Materials Modeling at Technical University of Munich"
 ShowReadingTime: false
 hideAuthor: true

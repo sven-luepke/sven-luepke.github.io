@@ -1,7 +1,7 @@
 # Sven Lüpke
 
 ## Blog
-- [Training Diffusion Transformers with Muon](http://localhost:1313/blog/training-diffusion-transformers-with-muon/)
+- [Training Diffusion Transformers with Muon](http://localhost:1313/blog/2025-05-31-dit-muon/)
 
 ## Projects
 - [Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis](http://localhost:1313/projects/physics-informed-latent-diffusion-mri/)
