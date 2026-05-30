@@ -42,7 +42,7 @@ languages:
           url: publications
           weight: 3
         - name: CV
-          url: cv
+          url: CV.pdf
           weight: 4
 
 outputFormats:
@@ -61,8 +61,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  author: Theme PaperMod
-  # author: ["Me", "You"] # multiple authors
+  author: Sven Lüpke
 
   defaultTheme: dark
   # disableThemeToggle: true
@@ -83,7 +82,6 @@ params:
     enabled: True
     title: Sven Lüpke
     imageUrl: "images/sven_cropped.jpg"
-    imageTitle: my image
     subtitle: "AI Researcher & Engineer"
     imageWidth: 512
     imageHeight: 512
@@ -95,7 +93,7 @@ params:
       - name: Publications
         url: publications
       - name: CV
-        url: cv
+        url: CV.pdf
 
 
   socialIcons:
@@ -108,9 +106,9 @@ params:
     - name: LinkedIn
       title: Connect with me on LinkedIn
       url: "https://www.linkedin.com/in/sven-luepke/"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
+    - name: GoogleScholar
+      title: View my Google Scholar profile
+      url: "https://scholar.google.com/citations?user=kybatigAAAAJ"
     - name: YouTube
       title: Subscribe to my YouTube channel
       url: "https://www.youtube.com/@knightec8698"
