@@ -1,0 +1,10 @@
+.md-content figure img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.md-content figure > figcaption,
+.md-content figure > figcaption > p {
+    text-align: center;
+}
