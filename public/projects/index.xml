@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Sven Lüpke</title>
-    <link>http://localhost:1315/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Sven Lüpke</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis</title>
-      <link>http://localhost:1315/projects/physics-informed-latent-diffusion-mri/</link>
+      <link>http://localhost:1313/projects/physics-informed-latent-diffusion-mri/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/projects/physics-informed-latent-diffusion-mri/</guid>
+      <guid>http://localhost:1313/projects/physics-informed-latent-diffusion-mri/</guid>
       <description>Paper presented at the 5th International Workshop on Multiscale Multimodal Medical Imaging at MICCAI 2024</description>
     </item>
     <item>
       <title>Generative Modeling for Inverse Molecular Design</title>
-      <link>http://localhost:1315/projects/generative-modeling-inverse-molecular-design/</link>
+      <link>http://localhost:1313/projects/generative-modeling-inverse-molecular-design/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/projects/generative-modeling-inverse-molecular-design/</guid>
+      <guid>http://localhost:1313/projects/generative-modeling-inverse-molecular-design/</guid>
       <description>Interdisciplinary project at the Chair for Data-driven Materials Modeling at Technical University of Munich</description>
     </item>
     <item>
       <title>BlitzFX</title>
-      <link>http://localhost:1315/projects/blitz-fx/</link>
+      <link>http://localhost:1313/projects/blitz-fx/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/projects/blitz-fx/</guid>
+      <guid>http://localhost:1313/projects/blitz-fx/</guid>
       <description>Graphics effect injector for The Witcher 3</description>
     </item>
   </channel>
